@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_013.jpg,loi_may,YOLO26 gợi ý car trên tuk-tuk có mui,Gán three_wheeler khi nhìn rõ cấu trúc tuk-tuk,"Dựa vào cấu trúc xe và số bánh nhìn thấy, kể cả xe có mui; nếu chưa chắc thì ghi ca cần xem lại.",v1.1
+CAL-02,img_013.jpg,cau_hoi_mo,Người trong xe có mui bị che (câu 4 của v1.0),Gán person riêng khi ước lượng còn thấy ít nhất 20% cơ thể,"Giữ mốc 20%; dựa trên phần đầu, thân và chi phân biệt được; nếu sát ngưỡng, ghi ca cần xem lại.",v1.1
+CAL-03,img_003.jpg,loi_may,Mask SAM dính hàng rời trên thùng xe,Tách hàng rời khỏi mask của xe,"Giữ mui và thùng gắn liền; bỏ phần hàng rời nhìn thấy, bám mép thùng nơi hàng che.",v1.1

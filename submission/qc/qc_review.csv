@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,15,sai_vi_tri_kich_thuoc,Codex,Box kéo sang phải và xuống phần đường ngoài xe.
+img_006.jpg,98,thua,Codex,"Box car trên khoảng tối dưới mái, không thấy ô tô."
+img_014.jpg,186,thua,Codex,Box three_wheeler trên xe đẩy tay chở hàng.
+img_031.jpg,554,sai_vi_tri_kich_thuoc,Codex,Box bicycle thiếu bánh sau và phần khung nhìn thấy.
+img_035.jpg,620,thua,Codex,Box person nhỏ lặp một phần người đã được đánh dấu ở mép trái.
